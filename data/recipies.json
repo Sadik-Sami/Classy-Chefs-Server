@@ -1,0 +1,1070 @@
+[
+    {
+        "id": 101,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Spicy Grilled Chicken",
+        "ingredients": [
+            "chicken",
+            "spices",
+            "olive oil"
+        ],
+        "instructions": "Marinate chicken with spices, grill until golden brown."
+    },
+    {
+        "id": 102,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Creamy Garlic Pasta",
+        "ingredients": [
+            "pasta",
+            "garlic",
+            "cream",
+            "parmesan"
+        ],
+        "instructions": "Cook pasta, sauté garlic, mix with cream and parmesan."
+    },
+    {
+        "id": 103,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Lemon Herb Salmon",
+        "ingredients": [
+            "salmon",
+            "lemon",
+            "herbs",
+            "butter"
+        ],
+        "instructions": "Season salmon with herbs and lemon, bake with butter."
+    },
+    {
+        "id": 104,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Tomato Basil Bruschetta",
+        "ingredients": [
+            "tomatoes",
+            "basil",
+            "garlic",
+            "baguette"
+        ],
+        "instructions": "Combine diced tomatoes, basil, and garlic. Serve on toasted baguette slices."
+    },
+    {
+        "id": 105,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chocolate Lava Cake",
+        "ingredients": [
+            "chocolate",
+            "butter",
+            "sugar",
+            "eggs",
+            "flour"
+        ],
+        "instructions": "Melt chocolate and butter, mix with sugar, eggs, and flour. Bake until gooey inside."
+    },
+    {
+        "id": 106,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Vegetable Skewers",
+        "ingredients": [
+            "bell peppers",
+            "zucchini",
+            "cherry tomatoes",
+            "onion",
+            "olive oil"
+        ],
+        "instructions": "Marinate veggies, skewer, and grill until tender."
+    },
+    {
+        "id": 107,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Classic Caesar Salad",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing"
+        ],
+        "instructions": "Toss lettuce with croutons, parmesan, and Caesar dressing."
+    },
+    {
+        "id": 108,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Pesto Shrimp Linguine",
+        "ingredients": [
+            "shrimp",
+            "linguine",
+            "pesto sauce",
+            "cherry tomatoes"
+        ],
+        "instructions": "Cook linguine, sauté shrimp, mix with pesto and cherry tomatoes."
+    },
+    {
+        "id": 109,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Honey Mustard Glazed Salmon",
+        "ingredients": [
+            "salmon",
+            "honey",
+            "Dijon mustard",
+            "garlic"
+        ],
+        "instructions": "Mix honey, mustard, and garlic. Brush over salmon, bake until glazed."
+    },
+    {
+        "id": 110,
+        "chef_id": 1,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Avocado Salsa",
+        "ingredients": [
+            "mango",
+            "avocado",
+            "red onion",
+            "cilantro",
+            "lime"
+        ],
+        "instructions": "Dice mango, avocado, and onion. Mix with cilantro and lime juice."
+    },
+    {
+        "id": 201,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Salsa Shrimp Tacos",
+        "ingredients": [
+            "shrimp",
+            "mango",
+            "salsa",
+            "tortillas"
+        ],
+        "instructions": "Cook shrimp, mix with mango salsa, serve in tortillas."
+    },
+    {
+        "id": 202,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Avocado Lime Cheesecake",
+        "ingredients": [
+            "avocado",
+            "lime",
+            "cream cheese",
+            "crust"
+        ],
+        "instructions": "Blend avocado, lime, and cream cheese. Pour over crust, refrigerate."
+    },
+    {
+        "id": 203,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chicken Fajita Bowl",
+        "ingredients": [
+            "chicken",
+            "bell peppers",
+            "rice",
+            "salsa"
+        ],
+        "instructions": "Grill chicken and peppers, serve over rice with salsa."
+    },
+    {
+        "id": 204,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Cilantro Lime Rice",
+        "ingredients": [
+            "rice",
+            "cilantro",
+            "lime",
+            "salt"
+        ],
+        "instructions": "Cook rice, mix with chopped cilantro, lime juice, and salt."
+    },
+    {
+        "id": 205,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Strawberry Basil Lemonade",
+        "ingredients": [
+            "strawberries",
+            "basil",
+            "lemon",
+            "sugar",
+            "water"
+        ],
+        "instructions": "Blend strawberries, basil, lemon juice, sugar, and water. Strain and serve over ice."
+    },
+    {
+        "id": 206,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Steak with Chimichurri",
+        "ingredients": [
+            "steak",
+            "parsley",
+            "garlic",
+            "vinegar",
+            "olive oil"
+        ],
+        "instructions": "Grill steak, blend parsley, garlic, vinegar, and olive oil for chimichurri sauce."
+    },
+    {
+        "id": 207,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Shrimp and Asparagus Stir-Fry",
+        "ingredients": [
+            "shrimp",
+            "asparagus",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "instructions": "Sauté shrimp and asparagus with soy sauce, ginger, and garlic."
+    },
+    {
+        "id": 208,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Blueberry Almond Pancakes",
+        "ingredients": [
+            "blueberries",
+            "almonds",
+            "pancake mix",
+            "maple syrup"
+        ],
+        "instructions": "Add blueberries and almonds to pancake mix. Serve with maple syrup."
+    },
+    {
+        "id": 209,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Caprese Grilled Cheese",
+        "ingredients": [
+            "bread",
+            "mozzarella",
+            "tomato",
+            "basil",
+            "butter"
+        ],
+        "instructions": "Assemble sandwich with mozzarella, tomato, and basil. Grill with butter."
+    },
+    {
+        "id": 210,
+        "chef_id": 2,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mint Chocolate Chip Ice Cream",
+        "ingredients": [
+            "mint extract",
+            "chocolate chips",
+            "heavy cream",
+            "sugar",
+            "egg yolks"
+        ],
+        "instructions": "Infuse mint extract in cream, mix with sugar, egg yolks, and chocolate chips. Freeze."
+    },
+    {
+        "id": 301,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Spicy Grilled Chicken",
+        "ingredients": [
+            "chicken",
+            "spices",
+            "olive oil"
+        ],
+        "instructions": "Marinate chicken with spices, grill until golden brown."
+    },
+    {
+        "id": 302,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Creamy Garlic Pasta",
+        "ingredients": [
+            "pasta",
+            "garlic",
+            "cream",
+            "parmesan"
+        ],
+        "instructions": "Cook pasta, sauté garlic, mix with cream and parmesan."
+    },
+    {
+        "id": 303,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Lemon Herb Salmon",
+        "ingredients": [
+            "salmon",
+            "lemon",
+            "herbs",
+            "butter"
+        ],
+        "instructions": "Season salmon with herbs and lemon, bake with butter."
+    },
+    {
+        "id": 304,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Tomato Basil Bruschetta",
+        "ingredients": [
+            "tomatoes",
+            "basil",
+            "garlic",
+            "baguette"
+        ],
+        "instructions": "Combine diced tomatoes, basil, and garlic. Serve on toasted baguette slices."
+    },
+    {
+        "id": 305,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chocolate Lava Cake",
+        "ingredients": [
+            "chocolate",
+            "butter",
+            "sugar",
+            "eggs",
+            "flour"
+        ],
+        "instructions": "Melt chocolate and butter, mix with sugar, eggs, and flour. Bake until gooey inside."
+    },
+    {
+        "id": 306,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Vegetable Skewers",
+        "ingredients": [
+            "bell peppers",
+            "zucchini",
+            "cherry tomatoes",
+            "onion",
+            "olive oil"
+        ],
+        "instructions": "Marinate veggies, skewer, and grill until tender."
+    },
+    {
+        "id": 307,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Classic Caesar Salad",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing"
+        ],
+        "instructions": "Toss lettuce with croutons, parmesan, and Caesar dressing."
+    },
+    {
+        "id": 308,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Pesto Shrimp Linguine",
+        "ingredients": [
+            "shrimp",
+            "linguine",
+            "pesto sauce",
+            "cherry tomatoes"
+        ],
+        "instructions": "Cook linguine, sauté shrimp, mix with pesto and cherry tomatoes."
+    },
+    {
+        "id": 309,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Honey Mustard Glazed Salmon",
+        "ingredients": [
+            "salmon",
+            "honey",
+            "Dijon mustard",
+            "garlic"
+        ],
+        "instructions": "Mix honey, mustard, and garlic. Brush over salmon, bake until glazed."
+    },
+    {
+        "id": 310,
+        "chef_id": 3,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Avocado Salsa",
+        "ingredients": [
+            "mango",
+            "avocado",
+            "red onion",
+            "cilantro",
+            "lime"
+        ],
+        "instructions": "Dice mango, avocado, and onion. Mix with cilantro and lime juice."
+    },
+    {
+        "id": 401,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Salsa Shrimp Tacos",
+        "ingredients": [
+            "shrimp",
+            "mango",
+            "salsa",
+            "tortillas"
+        ],
+        "instructions": "Cook shrimp, mix with mango salsa, serve in tortillas."
+    },
+    {
+        "id": 402,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Avocado Lime Cheesecake",
+        "ingredients": [
+            "avocado",
+            "lime",
+            "cream cheese",
+            "crust"
+        ],
+        "instructions": "Blend avocado, lime, and cream cheese. Pour over crust, refrigerate."
+    },
+    {
+        "id": 403,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chicken Fajita Bowl",
+        "ingredients": [
+            "chicken",
+            "bell peppers",
+            "rice",
+            "salsa"
+        ],
+        "instructions": "Grill chicken and peppers, serve over rice with salsa."
+    },
+    {
+        "id": 404,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Cilantro Lime Rice",
+        "ingredients": [
+            "rice",
+            "cilantro",
+            "lime",
+            "salt"
+        ],
+        "instructions": "Cook rice, mix with chopped cilantro, lime juice, and salt."
+    },
+    {
+        "id": 405,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Strawberry Basil Lemonade",
+        "ingredients": [
+            "strawberries",
+            "basil",
+            "lemon",
+            "sugar",
+            "water"
+        ],
+        "instructions": "Blend strawberries, basil, lemon juice, sugar, and water. Strain and serve over ice."
+    },
+    {
+        "id": 406,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Steak with Chimichurri",
+        "ingredients": [
+            "steak",
+            "parsley",
+            "garlic",
+            "vinegar",
+            "olive oil"
+        ],
+        "instructions": "Grill steak, blend parsley, garlic, vinegar, and olive oil for chimichurri sauce."
+    },
+    {
+        "id": 407,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Shrimp and Asparagus Stir-Fry",
+        "ingredients": [
+            "shrimp",
+            "asparagus",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "instructions": "Sauté shrimp and asparagus with soy sauce, ginger, and garlic."
+    },
+    {
+        "id": 408,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Blueberry Almond Pancakes",
+        "ingredients": [
+            "blueberries",
+            "almonds",
+            "pancake mix",
+            "maple syrup"
+        ],
+        "instructions": "Add blueberries and almonds to pancake mix. Serve with maple syrup."
+    },
+    {
+        "id": 409,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Caprese Grilled Cheese",
+        "ingredients": [
+            "bread",
+            "mozzarella",
+            "tomato",
+            "basil",
+            "butter"
+        ],
+        "instructions": "Assemble sandwich with mozzarella, tomato, and basil. Grill with butter."
+    },
+    {
+        "id": 410,
+        "chef_id": 4,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mint Chocolate Chip Ice Cream",
+        "ingredients": [
+            "mint extract",
+            "chocolate chips",
+            "heavy cream",
+            "sugar",
+            "egg yolks"
+        ],
+        "instructions": "Infuse mint extract in cream, mix with sugar, egg yolks, and chocolate chips. Freeze."
+    },
+    {
+        "id": 501,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Spicy Grilled Chicken",
+        "ingredients": [
+            "chicken",
+            "spices",
+            "olive oil"
+        ],
+        "instructions": "Marinate chicken with spices, grill until golden brown."
+    },
+    {
+        "id": 502,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Creamy Garlic Pasta",
+        "ingredients": [
+            "pasta",
+            "garlic",
+            "cream",
+            "parmesan"
+        ],
+        "instructions": "Cook pasta, sauté garlic, mix with cream and parmesan."
+    },
+    {
+        "id": 503,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Lemon Herb Salmon",
+        "ingredients": [
+            "salmon",
+            "lemon",
+            "herbs",
+            "butter"
+        ],
+        "instructions": "Season salmon with herbs and lemon, bake with butter."
+    },
+    {
+        "id": 504,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Tomato Basil Bruschetta",
+        "ingredients": [
+            "tomatoes",
+            "basil",
+            "garlic",
+            "baguette"
+        ],
+        "instructions": "Combine diced tomatoes, basil, and garlic. Serve on toasted baguette slices."
+    },
+    {
+        "id": 505,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chocolate Lava Cake",
+        "ingredients": [
+            "chocolate",
+            "butter",
+            "sugar",
+            "eggs",
+            "flour"
+        ],
+        "instructions": "Melt chocolate and butter, mix with sugar, eggs, and flour. Bake until gooey inside."
+    },
+    {
+        "id": 506,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Vegetable Skewers",
+        "ingredients": [
+            "bell peppers",
+            "zucchini",
+            "cherry tomatoes",
+            "onion",
+            "olive oil"
+        ],
+        "instructions": "Marinate veggies, skewer, and grill until tender."
+    },
+    {
+        "id": 507,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Classic Caesar Salad",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing"
+        ],
+        "instructions": "Toss lettuce with croutons, parmesan, and Caesar dressing."
+    },
+    {
+        "id": 508,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Pesto Shrimp Linguine",
+        "ingredients": [
+            "shrimp",
+            "linguine",
+            "pesto sauce",
+            "cherry tomatoes"
+        ],
+        "instructions": "Cook linguine, sauté shrimp, mix with pesto and cherry tomatoes."
+    },
+    {
+        "id": 509,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Honey Mustard Glazed Salmon",
+        "ingredients": [
+            "salmon",
+            "honey",
+            "Dijon mustard",
+            "garlic"
+        ],
+        "instructions": "Mix honey, mustard, and garlic. Brush over salmon, bake until glazed."
+    },
+    {
+        "id": 510,
+        "chef_id": 5,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Avocado Salsa",
+        "ingredients": [
+            "mango",
+            "avocado",
+            "red onion",
+            "cilantro",
+            "lime"
+        ],
+        "instructions": "Dice mango, avocado, and onion. Mix with cilantro and lime juice."
+    },
+    {
+        "id": 601,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Salsa Shrimp Tacos",
+        "ingredients": [
+            "shrimp",
+            "mango",
+            "salsa",
+            "tortillas"
+        ],
+        "instructions": "Cook shrimp, mix with mango salsa, serve in tortillas."
+    },
+    {
+        "id": 602,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Avocado Lime Cheesecake",
+        "ingredients": [
+            "avocado",
+            "lime",
+            "cream cheese",
+            "crust"
+        ],
+        "instructions": "Blend avocado, lime, and cream cheese. Pour over crust, refrigerate."
+    },
+    {
+        "id": 603,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chicken Fajita Bowl",
+        "ingredients": [
+            "chicken",
+            "bell peppers",
+            "rice",
+            "salsa"
+        ],
+        "instructions": "Grill chicken and peppers, serve over rice with salsa."
+    },
+    {
+        "id": 604,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Cilantro Lime Rice",
+        "ingredients": [
+            "rice",
+            "cilantro",
+            "lime",
+            "salt"
+        ],
+        "instructions": "Cook rice, mix with chopped cilantro, lime juice, and salt."
+    },
+    {
+        "id": 605,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Strawberry Basil Lemonade",
+        "ingredients": [
+            "strawberries",
+            "basil",
+            "lemon",
+            "sugar",
+            "water"
+        ],
+        "instructions": "Blend strawberries, basil, lemon juice, sugar, and water. Strain and serve over ice."
+    },
+    {
+        "id": 606,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Steak with Chimichurri",
+        "ingredients": [
+            "steak",
+            "parsley",
+            "garlic",
+            "vinegar",
+            "olive oil"
+        ],
+        "instructions": "Grill steak, blend parsley, garlic, vinegar, and olive oil for chimichurri sauce."
+    },
+    {
+        "id": 607,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Shrimp and Asparagus Stir-Fry",
+        "ingredients": [
+            "shrimp",
+            "asparagus",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "instructions": "Sauté shrimp and asparagus with soy sauce, ginger, and garlic."
+    },
+    {
+        "id": 608,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Blueberry Almond Pancakes",
+        "ingredients": [
+            "blueberries",
+            "almonds",
+            "pancake mix",
+            "maple syrup"
+        ],
+        "instructions": "Add blueberries and almonds to pancake mix. Serve with maple syrup."
+    },
+    {
+        "id": 609,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Caprese Grilled Cheese",
+        "ingredients": [
+            "bread",
+            "mozzarella",
+            "tomato",
+            "basil",
+            "butter"
+        ],
+        "instructions": "Assemble sandwich with mozzarella, tomato, and basil. Grill with butter."
+    },
+    {
+        "id": 610,
+        "chef_id": 6,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mint Chocolate Chip Ice Cream",
+        "ingredients": [
+            "mint extract",
+            "chocolate chips",
+            "heavy cream",
+            "sugar",
+            "egg yolks"
+        ],
+        "instructions": "Infuse mint extract in cream, mix with sugar, egg yolks, and chocolate chips. Freeze."
+    },
+    {
+        "id": 701,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Spicy Grilled Chicken",
+        "ingredients": [
+            "chicken",
+            "spices",
+            "olive oil"
+        ],
+        "instructions": "Marinate chicken with spices, grill until golden brown."
+    },
+    {
+        "id": 702,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Creamy Garlic Pasta",
+        "ingredients": [
+            "pasta",
+            "garlic",
+            "cream",
+            "parmesan"
+        ],
+        "instructions": "Cook pasta, sauté garlic, mix with cream and parmesan."
+    },
+    {
+        "id": 703,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Lemon Herb Salmon",
+        "ingredients": [
+            "salmon",
+            "lemon",
+            "herbs",
+            "butter"
+        ],
+        "instructions": "Season salmon with herbs and lemon, bake with butter."
+    },
+    {
+        "id": 704,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Tomato Basil Bruschetta",
+        "ingredients": [
+            "tomatoes",
+            "basil",
+            "garlic",
+            "baguette"
+        ],
+        "instructions": "Combine diced tomatoes, basil, and garlic. Serve on toasted baguette slices."
+    },
+    {
+        "id": 705,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chocolate Lava Cake",
+        "ingredients": [
+            "chocolate",
+            "butter",
+            "sugar",
+            "eggs",
+            "flour"
+        ],
+        "instructions": "Melt chocolate and butter, mix with sugar, eggs, and flour. Bake until gooey inside."
+    },
+    {
+        "id": 706,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Vegetable Skewers",
+        "ingredients": [
+            "bell peppers",
+            "zucchini",
+            "cherry tomatoes",
+            "onion",
+            "olive oil"
+        ],
+        "instructions": "Marinate veggies, skewer, and grill until tender."
+    },
+    {
+        "id": 707,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Classic Caesar Salad",
+        "ingredients": [
+            "romaine lettuce",
+            "croutons",
+            "parmesan cheese",
+            "Caesar dressing"
+        ],
+        "instructions": "Toss lettuce with croutons, parmesan, and Caesar dressing."
+    },
+    {
+        "id": 708,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Pesto Shrimp Linguine",
+        "ingredients": [
+            "shrimp",
+            "linguine",
+            "pesto sauce",
+            "cherry tomatoes"
+        ],
+        "instructions": "Cook linguine, sauté shrimp, mix with pesto and cherry tomatoes."
+    },
+    {
+        "id": 709,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Honey Mustard Glazed Salmon",
+        "ingredients": [
+            "salmon",
+            "honey",
+            "Dijon mustard",
+            "garlic"
+        ],
+        "instructions": "Mix honey, mustard, and garlic. Brush over salmon, bake until glazed."
+    },
+    {
+        "id": 710,
+        "chef_id": 7,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Avocado Salsa",
+        "ingredients": [
+            "mango",
+            "avocado",
+            "red onion",
+            "cilantro",
+            "lime"
+        ],
+        "instructions": "Dice mango, avocado, and onion. Mix with cilantro and lime juice."
+    },
+    {
+        "id": 801,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mango Salsa Shrimp Tacos",
+        "ingredients": [
+            "shrimp",
+            "mango",
+            "salsa",
+            "tortillas"
+        ],
+        "instructions": "Cook shrimp, mix with mango salsa, serve in tortillas."
+    },
+    {
+        "id": 802,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Avocado Lime Cheesecake",
+        "ingredients": [
+            "avocado",
+            "lime",
+            "cream cheese",
+            "crust"
+        ],
+        "instructions": "Blend avocado, lime, and cream cheese. Pour over crust, refrigerate."
+    },
+    {
+        "id": 803,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Chicken Fajita Bowl",
+        "ingredients": [
+            "chicken",
+            "bell peppers",
+            "rice",
+            "salsa"
+        ],
+        "instructions": "Grill chicken and peppers, serve over rice with salsa."
+    },
+    {
+        "id": 804,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Cilantro Lime Rice",
+        "ingredients": [
+            "rice",
+            "cilantro",
+            "lime",
+            "salt"
+        ],
+        "instructions": "Cook rice, mix with chopped cilantro, lime juice, and salt."
+    },
+    {
+        "id": 805,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Strawberry Basil Lemonade",
+        "ingredients": [
+            "strawberries",
+            "basil",
+            "lemon",
+            "sugar",
+            "water"
+        ],
+        "instructions": "Blend strawberries, basil, lemon juice, sugar, and water. Strain and serve over ice."
+    },
+    {
+        "id": 806,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Grilled Steak with Chimichurri",
+        "ingredients": [
+            "steak",
+            "parsley",
+            "garlic",
+            "vinegar",
+            "olive oil"
+        ],
+        "instructions": "Grill steak, blend parsley, garlic, vinegar, and olive oil for chimichurri sauce."
+    },
+    {
+        "id": 807,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Shrimp and Asparagus Stir-Fry",
+        "ingredients": [
+            "shrimp",
+            "asparagus",
+            "soy sauce",
+            "ginger",
+            "garlic"
+        ],
+        "instructions": "Sauté shrimp and asparagus with soy sauce, ginger, and garlic."
+    },
+    {
+        "id": 808,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Blueberry Almond Pancakes",
+        "ingredients": [
+            "blueberries",
+            "almonds",
+            "pancake mix",
+            "maple syrup"
+        ],
+        "instructions": "Add blueberries and almonds to pancake mix. Serve with maple syrup."
+    },
+    {
+        "id": 809,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Caprese Grilled Cheese",
+        "ingredients": [
+            "bread",
+            "mozzarella",
+            "tomato",
+            "basil",
+            "butter"
+        ],
+        "instructions": "Assemble sandwich with mozzarella, tomato, and basil. Grill with butter."
+    },
+    {
+        "id": 810,
+        "chef_id": 8,
+        "photo": "https://media.istockphoto.com/id/1214416414/photo/barbecued-salmon-fried-potatoes-and-vegetables-on-wooden-background.jpg?s=2048x2048&w=is&k=20&c=N9BmulNLMp2iARi8xMtIwJc4NDS6JXYvPhEfO-w9yug=",
+        "name": "Mint Chocolate Chip Ice Cream",
+        "ingredients": [
+            "mint extract",
+            "chocolate chips",
+            "heavy cream",
+            "sugar",
+            "egg yolks"
+        ],
+        "instructions": "Infuse mint extract in cream, mix with sugar, egg yolks, and chocolate chips. Freeze."
+    }
+]

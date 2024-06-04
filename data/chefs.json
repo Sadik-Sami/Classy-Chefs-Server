@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "John Smith",
+        "picture": "chef_john_smith.jpg",
+        "years_of_experience": 15,
+        "likes": 12000,
+        "recipies": 10
+    },
+    {
+        "id": 2,
+        "name": "Maria Rodriguez",
+        "picture": "chef_maria_rodriguez.jpg",
+        "years_of_experience": 20,
+        "likes": 15000,
+        "recipies": 10
+    },
+    {
+        "id": 3,
+        "name": "Emily Davis",
+        "picture": "chef_emily_davis.jpg",
+        "years_of_experience": 18,
+        "likes": 18000,
+        "recipies": 10
+    },
+    {
+        "id": 4,
+        "name": "Michael Lee",
+        "picture": "chef_michael_lee.jpg",
+        "years_of_experience": 12,
+        "likes": 10000,
+        "recipies": 10
+    },
+    {
+        "id": 5,
+        "name": "Olivia Martinez",
+        "picture": "chef_olivia_martinez.jpg",
+        "years_of_experience": 22,
+        "likes": 20000,
+        "recipies": 10
+    },
+    {
+        "id": 6,
+        "name": "Daniel Brown",
+        "picture": "chef_daniel_brown.jpg",
+        "years_of_experience": 17,
+        "likes": 16000,
+        "recipies": 10
+    },
+    {
+        "id": 7,
+        "name": "Sophia Nguyen",
+        "picture": "chef_sophia_nguyen.jpg",
+        "years_of_experience": 14,
+        "likes": 13000,
+        "recipies": 10
+    },
+    {
+        "id": 8,
+        "name": "Ethan Miller",
+        "picture": "chef_ethan_miller.jpg",
+        "years_of_experience": 19,
+        "likes": 17000,
+        "recipies": 10
+    }
+]
